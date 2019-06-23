@@ -1,8 +1,0 @@
-Execute the script for testing.
-
-Plans
-for the neural network
-switch to RELU to see if it improves error rate
-add a csv fucntion to import data from a csv file
-others:
-write more scripts using fastai
